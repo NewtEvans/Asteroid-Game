@@ -16,3 +16,6 @@ ENV/
 # Cache
 __pycache__/
 *.egg-info/
+
+# Logs
+game_state.jsonl
